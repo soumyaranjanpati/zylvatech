@@ -11,7 +11,7 @@ const services = [
   {
     icon: <ServerCog className="h-8 w-8 text-primary" />,
     title: 'ERP Consulting & Implementation',
-    description: 'In-depth analysis, strategic planning, and full-cycle implementation of ERP systems (like SAP, Oracle NetSuite, Microsoft Dynamics 365) to streamline your core business operations, from finance to supply chain.',
+    description: 'In-depth analysis, strategic planning, and full-cycle implementation of ERP systems (like ERPNext) to streamline your core business operations, from finance to supply chain.',
     imageSrc: 'https://picsum.photos/seed/erp-consulting/500/300',
     imageAlt: 'ERP Consulting Session',
     dataAiHint: 'business planning',
