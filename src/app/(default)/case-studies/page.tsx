@@ -3,8 +3,8 @@ import CaseStudySummarizer from '@/components/CaseStudySummarizer';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Case Studies - Cobee Solutions',
-  description: 'Explore success stories and learn how Cobee has helped businesses like yours achieve their goals with our ERP and CRM solutions.',
+  title: 'Case Studies - ZYLVA Solutions',
+  description: 'Explore success stories and learn how ZYLVA has helped businesses like yours achieve their goals with our ERP and CRM solutions.',
 };
 
 const caseStudies = [
@@ -41,7 +41,7 @@ export default function CaseStudiesPage() {
         <div className="container mx-auto px-4 md:px-6 text-center">
           <h1 className="text-4xl md:text-5xl font-bold text-foreground mb-6">Our Success Stories</h1>
           <p className="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto">
-            Discover how Cobee has partnered with businesses across various industries to deliver impactful ERP and CRM solutions, driving real results and fostering growth.
+            Discover how ZYLVA has partnered with businesses across various industries to deliver impactful ERP and CRM solutions, driving real results and fostering growth.
           </p>
         </div>
       </section>

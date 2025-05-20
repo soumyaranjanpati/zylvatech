@@ -4,8 +4,8 @@ import Image from 'next/image';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'About Cobee Solutions',
-  description: 'Learn about Cobee\'s mission, vision, and values in providing expert ERP and CRM consulting.',
+  title: 'About ZYLVA Solutions',
+  description: 'Learn about ZYLVA\'s mission, vision, and values in providing expert ERP and CRM consulting.',
 };
 
 const values = [
@@ -36,7 +36,7 @@ export default function AboutUsPage() {
     <>
       <section className="py-16 md:py-24 bg-gradient-to-b from-primary/5 to-background">
         <div className="container mx-auto px-4 md:px-6 text-center">
-          <h1 className="text-4xl md:text-5xl font-bold text-foreground mb-6">About Cobee Solutions</h1>
+          <h1 className="text-4xl md:text-5xl font-bold text-foreground mb-6">About ZYLVA Solutions</h1>
           <p className="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto">
             Empowering businesses with transformative ERP and CRM solutions to drive growth, efficiency, and lasting success.
           </p>
@@ -49,7 +49,7 @@ export default function AboutUsPage() {
             <div>
               <Image
                 src="https://picsum.photos/seed/team-meeting/600/400"
-                alt="Cobee Team Meeting"
+                alt="ZYLVA Team Meeting"
                 width={600}
                 height={400}
                 className="rounded-lg shadow-xl object-cover"

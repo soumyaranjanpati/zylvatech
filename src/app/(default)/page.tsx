@@ -48,7 +48,7 @@ export default function HomePage() {
       <section className="bg-gradient-to-br from-primary/10 via-background to-background py-20 md:py-32">
         <div className="container mx-auto px-4 md:px-6 text-center">
           <h1 className="text-4xl md:text-6xl font-bold tracking-tight text-foreground">
-            Transform Your Business with <span className="text-primary">Cobee</span>
+            Transform Your Business with <span className="text-primary">ZYLVA</span>
           </h1>
           <p className="mt-6 max-w-3xl mx-auto text-lg md:text-xl text-muted-foreground">
             Expert ERP and CRM Solutions Tailored for Your Success. We empower businesses with innovative technology and strategic insights.
@@ -67,7 +67,7 @@ export default function HomePage() {
       {/* Features Section */}
       <section className="py-16 md:py-24 bg-background">
         <div className="container mx-auto px-4 md:px-6">
-          <h2 className="text-3xl md:text-4xl font-bold text-center text-foreground mb-4">Why Choose Cobee?</h2>
+          <h2 className="text-3xl md:text-4xl font-bold text-center text-foreground mb-4">Why Choose ZYLVA?</h2>
           <p className="text-center text-muted-foreground mb-12 md:mb-16 max-w-2xl mx-auto">
             We provide cutting-edge solutions and dedicated support to help your business thrive in a competitive landscape.
           </p>
@@ -164,7 +164,7 @@ export default function HomePage() {
         <div className="container mx-auto px-4 md:px-6 text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-6">Ready to Elevate Your Business?</h2>
           <p className="max-w-2xl mx-auto text-lg md:text-xl mb-10 text-primary-foreground/80">
-            Let's discuss how Cobee can tailor ERP and CRM solutions to meet your specific needs and drive your business forward.
+            Let's discuss how ZYLVA can tailor ERP and CRM solutions to meet your specific needs and drive your business forward.
           </p>
           <Button asChild size="lg" className="bg-accent hover:bg-accent/90 text-accent-foreground shadow-lg transition-transform hover:scale-105 px-10 py-6 text-lg">
             <Link href="/contact">Contact Us Today</Link>

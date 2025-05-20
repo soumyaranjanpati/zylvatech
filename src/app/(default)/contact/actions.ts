@@ -51,7 +51,7 @@ export async function submitContactForm(
   // In a real application, you would integrate with an email service or DB here.
   // For example:
   // try {
-  //   await sendEmail({ to: 'contact@cobee.com', subject: `New Inquiry from ${name}`, body: ... });
+  //   await sendEmail({ to: 'contact@zylva.com', subject: `New Inquiry from ${name}`, body: ... });
   // } catch (error) {
   //   return { message: 'Failed to send message. Please try again later.', status: 'error' };
   // }

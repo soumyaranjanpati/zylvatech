@@ -17,9 +17,9 @@ const lato = Lato({
 // });
 
 export const metadata: Metadata = {
-  title: 'Cobee Solutions',
-  description: 'Cobee offers expert ERP and CRM consulting services to help your business thrive.',
-  keywords: ["ERP consulting", "CRM solutions", "business consulting", "Cobee"],
+  title: 'ZYLVA Solutions',
+  description: 'ZYLVA offers expert ERP and CRM consulting services to help your business thrive.',
+  keywords: ["ERP consulting", "CRM solutions", "business consulting", "ZYLVA"],
 };
 
 export default function RootLayout({

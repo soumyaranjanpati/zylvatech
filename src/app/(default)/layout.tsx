@@ -4,22 +4,22 @@ import Footer from '@/components/layout/Footer';
 
 export const metadata: Metadata = {
   title: {
-    default: 'Cobee Solutions - ERP & CRM Consulting',
-    template: '%s | Cobee Solutions',
+    default: 'ZYLVA Solutions - ERP & CRM Consulting',
+    template: '%s | ZYLVA Solutions',
   },
-  description: 'Cobee offers expert ERP and CRM consulting services to help your business thrive. Transform your operations with our tailored solutions.',
-  keywords: ['ERP consulting', 'CRM solutions', 'business consulting', 'Cobee', 'enterprise resource planning', 'customer relationship management'],
+  description: 'ZYLVA offers expert ERP and CRM consulting services to help your business thrive. Transform your operations with our tailored solutions.',
+  keywords: ['ERP consulting', 'CRM solutions', 'business consulting', 'ZYLVA', 'enterprise resource planning', 'customer relationship management'],
   openGraph: {
-    title: 'Cobee Solutions - ERP & CRM Consulting',
+    title: 'ZYLVA Solutions - ERP & CRM Consulting',
     description: 'Expert ERP and CRM consulting services to help your business thrive.',
-    url: 'https://www.cobee.com', // Replace with actual domain
-    siteName: 'Cobee Solutions',
+    url: 'https://www.zylva.com', // Replace with actual domain
+    siteName: 'ZYLVA Solutions',
     images: [
       {
-        url: 'https://picsum.photos/seed/cobee-og/1200/630', // Replace with actual OG image
+        url: 'https://picsum.photos/seed/zylva-og/1200/630', // Replace with actual OG image
         width: 1200,
         height: 630,
-        alt: 'Cobee Solutions',
+        alt: 'ZYLVA Solutions',
       },
     ],
     locale: 'en_US',
@@ -27,11 +27,11 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Cobee Solutions - ERP & CRM Consulting',
+    title: 'ZYLVA Solutions - ERP & CRM Consulting',
     description: 'Expert ERP and CRM consulting services to help your business thrive.',
-    // site: '@cobee', // Replace with actual Twitter handle
-    // creator: '@cobee', // Replace with actual Twitter handle
-    images: ['https://picsum.photos/seed/cobee-twitter/1200/600'], // Replace with actual Twitter image
+    // site: '@zylva', // Replace with actual Twitter handle
+    // creator: '@zylva', // Replace with actual Twitter handle
+    images: ['https://picsum.photos/seed/zylva-twitter/1200/600'], // Replace with actual Twitter image
   },
   robots: {
     index: true,

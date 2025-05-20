@@ -2,8 +2,8 @@ import BlogPostCard from '@/components/BlogPostCard';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Blog - Cobee Solutions',
-  description: 'Stay updated with the latest insights, trends, and best practices in ERP and CRM systems from the experts at Cobee.',
+  title: 'Blog - ZYLVA Solutions',
+  description: 'Stay updated with the latest insights, trends, and best practices in ERP and CRM systems from the experts at ZYLVA.',
 };
 
 const blogPosts = [
@@ -54,7 +54,7 @@ export default function BlogPage() {
     <>
       <section className="py-16 md:py-24 bg-gradient-to-b from-primary/5 to-background">
         <div className="container mx-auto px-4 md:px-6 text-center">
-          <h1 className="text-4xl md:text-5xl font-bold text-foreground mb-6">Cobee Insights & Blog</h1>
+          <h1 className="text-4xl md:text-5xl font-bold text-foreground mb-6">ZYLVA Insights & Blog</h1>
           <p className="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto">
             Your source for the latest news, trends, and expert advice in ERP and CRM solutions. Stay informed and ahead of the curve.
           </p>

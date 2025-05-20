@@ -12,7 +12,7 @@ export default function Footer() {
           <div>
             <Link href="/" className="flex items-center gap-2 text-xl font-bold text-primary mb-4">
               <Briefcase className="h-7 w-7" />
-              <span>Cobee</span>
+              <span>ZYLVA</span>
             </Link>
             <p className="text-sm text-muted-foreground">
               Expert ERP and CRM Solutions Tailored for Your Success.
@@ -50,7 +50,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-8 border-t pt-8 text-center text-sm text-muted-foreground">
-          &copy; {currentYear} Cobee Solutions. All rights reserved.
+          &copy; {currentYear} ZYLVA Solutions. All rights reserved.
         </div>
       </div>
     </footer>

@@ -15,7 +15,7 @@ interface BlogPostCardProps {
   dataAiHint?: string;
 }
 
-export default function BlogPostCard({ title, summary, imageSrc, imageAlt, link, author = "Cobee Team", date = "Recently", dataAiHint }: BlogPostCardProps) {
+export default function BlogPostCard({ title, summary, imageSrc, imageAlt, link, author = "ZYLVA Team", date = "Recently", dataAiHint }: BlogPostCardProps) {
   return (
     <Card className="shadow-lg hover:shadow-xl transition-shadow duration-300 flex flex-col overflow-hidden">
       <Link href={link} className="block">

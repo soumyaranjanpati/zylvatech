@@ -3,8 +3,8 @@ import { ServerCog, UsersRound, BookOpenCheck, Brain, SearchCode, ShieldCheck } 
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Our Services - Cobee Solutions',
-  description: 'Explore Cobee\'s comprehensive ERP and CRM consulting services, including implementation, customization, training, and support.',
+  title: 'Our Services - ZYLVA Solutions',
+  description: 'Explore ZYLVA\'s comprehensive ERP and CRM consulting services, including implementation, customization, training, and support.',
 };
 
 const services = [
@@ -65,7 +65,7 @@ export default function ServicesPage() {
         <div className="container mx-auto px-4 md:px-6 text-center">
           <h1 className="text-4xl md:text-5xl font-bold text-foreground mb-6">Our Comprehensive Services</h1>
           <p className="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto">
-            Cobee offers a full spectrum of ERP and CRM consulting services designed to optimize your business processes and drive sustainable growth.
+            ZYLVA offers a full spectrum of ERP and CRM consulting services designed to optimize your business processes and drive sustainable growth.
           </p>
         </div>
       </section>
