@@ -17,7 +17,7 @@ const lato = Lato({
 // });
 
 export const metadata: Metadata = {
-  title: 'ZYLVA Solutions',
+  title: 'ZYLVA',
   description: 'ZYLVA offers expert ERP and CRM consulting services to help your business thrive.',
   keywords: ["ERP consulting", "CRM solutions", "business consulting", "ZYLVA"],
 };

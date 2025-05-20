@@ -3,7 +3,7 @@ import CaseStudySummarizer from '@/components/CaseStudySummarizer';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Case Studies - ZYLVA Solutions',
+  title: 'Case Studies - ZYLVA',
   description: 'Explore success stories and learn how ZYLVA has helped businesses like yours achieve their goals with our ERP and CRM solutions.',
 };
 

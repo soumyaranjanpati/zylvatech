@@ -2,7 +2,7 @@ import BlogPostCard from '@/components/BlogPostCard';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Blog - ZYLVA Solutions',
+  title: 'Blog - ZYLVA',
   description: 'Stay updated with the latest insights, trends, and best practices in ERP and CRM systems from the experts at ZYLVA.',
 };
 

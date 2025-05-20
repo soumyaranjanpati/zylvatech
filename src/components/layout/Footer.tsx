@@ -50,7 +50,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-8 border-t pt-8 text-center text-sm text-muted-foreground">
-          &copy; {currentYear} ZYLVA Solutions. All rights reserved.
+          &copy; {currentYear} ZYLVA. All rights reserved.
         </div>
       </div>
     </footer>

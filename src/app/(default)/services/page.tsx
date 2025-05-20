@@ -3,7 +3,7 @@ import { ServerCog, UsersRound, BookOpenCheck, Brain, SearchCode, ShieldCheck } 
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Our Services - ZYLVA Solutions',
+  title: 'Our Services - ZYLVA',
   description: 'Explore ZYLVA\'s comprehensive ERP and CRM consulting services, including implementation, customization, training, and support.',
 };
 

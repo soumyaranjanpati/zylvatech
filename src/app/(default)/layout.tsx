@@ -4,22 +4,22 @@ import Footer from '@/components/layout/Footer';
 
 export const metadata: Metadata = {
   title: {
-    default: 'ZYLVA Solutions - ERP & CRM Consulting',
-    template: '%s | ZYLVA Solutions',
+    default: 'ZYLVA - ERP & CRM Consulting',
+    template: '%s | ZYLVA',
   },
   description: 'ZYLVA offers expert ERP and CRM consulting services to help your business thrive. Transform your operations with our tailored solutions.',
   keywords: ['ERP consulting', 'CRM solutions', 'business consulting', 'ZYLVA', 'enterprise resource planning', 'customer relationship management'],
   openGraph: {
-    title: 'ZYLVA Solutions - ERP & CRM Consulting',
+    title: 'ZYLVA - ERP & CRM Consulting',
     description: 'Expert ERP and CRM consulting services to help your business thrive.',
     url: 'https://www.zylva.com', // Replace with actual domain
-    siteName: 'ZYLVA Solutions',
+    siteName: 'ZYLVA',
     images: [
       {
         url: 'https://picsum.photos/seed/zylva-og/1200/630', // Replace with actual OG image
         width: 1200,
         height: 630,
-        alt: 'ZYLVA Solutions',
+        alt: 'ZYLVA',
       },
     ],
     locale: 'en_US',
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'ZYLVA Solutions - ERP & CRM Consulting',
+    title: 'ZYLVA - ERP & CRM Consulting',
     description: 'Expert ERP and CRM consulting services to help your business thrive.',
     // site: '@zylva', // Replace with actual Twitter handle
     // creator: '@zylva', // Replace with actual Twitter handle

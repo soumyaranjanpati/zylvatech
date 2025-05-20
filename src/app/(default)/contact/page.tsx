@@ -6,8 +6,8 @@ import type { Metadata } from 'next';
 import Image from 'next/image';
 
 export const metadata: Metadata = {
-  title: 'Contact Us - ZYLVA Solutions',
-  description: 'Get in touch with ZYLVA Solutions for expert ERP and CRM consulting. We are ready to help you transform your business.',
+  title: 'Contact Us - ZYLVA',
+  description: 'Get in touch with ZYLVA for expert ERP and CRM consulting. We are ready to help you transform your business.',
 };
 
 const contactDetails = [
@@ -88,7 +88,7 @@ export default function ContactPage() {
               <div className="rounded-lg overflow-hidden shadow-xl">
                  <Image 
                     src="https://picsum.photos/seed/map-location/600/400" 
-                    alt="Map location of ZYLVA Solutions"
+                    alt="Map location of ZYLVA"
                     width={600}
                     height={400}
                     className="w-full h-64 object-cover"
