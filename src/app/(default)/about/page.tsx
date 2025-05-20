@@ -108,37 +108,6 @@ export default function AboutUsPage() {
           </div>
         </div>
       </section>
-
-      <section className="py-16 md:py-24 bg-background">
-        <div className="container mx-auto px-4 md:px-6 text-center">
-            <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-6">Meet Our Experts</h2>
-            <p className="text-lg text-muted-foreground max-w-2xl mx-auto mb-12">
-                Our team of certified professionals brings years of experience and a passion for helping businesses succeed.
-            </p>
-            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
-                {[
-                    { name: "Alice Wonderland", role: "Lead ERP Consultant", imageHint: "professional woman" },
-                    { name: "Bob The Builder", role: "Senior CRM Strategist", imageHint: "professional man" },
-                    { name: "Charlie Brown", role: "Support & Training Lead", imageHint: "friendly person" },
-                ].map(expert => (
-                    <Card key={expert.name} className="overflow-hidden shadow-lg">
-                        <Image 
-                            src={`https://picsum.photos/seed/${expert.name.replace(/\s+/g, '-')}/400/400`} 
-                            alt={expert.name}
-                            width={400}
-                            height={400}
-                            className="w-full h-64 object-cover"
-                            data-ai-hint={expert.imageHint}
-                        />
-                        <CardContent className="p-6">
-                            <h3 className="text-xl font-semibold text-foreground">{expert.name}</h3>
-                            <p className="text-primary">{expert.role}</p>
-                        </CardContent>
-                    </Card>
-                ))}
-            </div>
-        </div>
-      </section>
     </>
   );
 }
