@@ -25,7 +25,7 @@ const contactDetails = [
   {
     icon: <MapPin className="h-6 w-6 text-primary" />,
     title: 'Visit Us',
-    value: '123 Business Rd, Innovation City, ST 54321', // Placeholder
+    value: 'C-11, Patia, Bhubaneswar, Odisha, India Pin - 751024',
     href: '#', // Could be a Google Maps link
   },
 ];

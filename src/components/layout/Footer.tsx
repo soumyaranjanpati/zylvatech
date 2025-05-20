@@ -44,8 +44,8 @@ export default function Footer() {
               </Link>
             </div>
             <p className="text-sm text-muted-foreground mt-4">
-              123 Business Rd, Suite 400<br />
-              Innovation City, ST 54321
+              C-11, Patia, Bhubaneswar, Odisha, India<br />
+              Pin - 751024
             </p>
           </div>
         </div>
